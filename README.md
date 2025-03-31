@@ -122,10 +122,3 @@ Contributions are welcome! To contribute:
 3. Submit a pull request.
 
 ---
-
-## **License**
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
-Let me know if you'd like me to refine any section or add more details! 🚀
